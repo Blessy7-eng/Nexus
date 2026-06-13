@@ -1,0 +1,10 @@
+{
+  "name": "Remix: NEXUS: Hospitality Command Center",
+  "description": "Accelerated Emergency Response \u0026 Crisis Coordination Platform for the Hospitality sector.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
