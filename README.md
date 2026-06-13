@@ -174,15 +174,15 @@ npm run dev
 ```
 
 ### Environment Variables
-GEMINI_API_KEY=your_gemini_key
+GEMINI_API_KEY=""
 
-GEMINI_API_KEY_SOS=your_sos_key
+GEMINI_API_KEY_SOS=""
 
-GEMINI_API_KEY_INCIDENTS=your_incidents_key
+GEMINI_API_KEY_INCIDENTS=""
 
-GEMINI_API_KEY_USERS=your_users_key
+GEMINI_API_KEY_USERS=""
 
-GEMINI_API_KEY_BACKGROUND=your_background_key
+GEMINI_API_KEY_BACKGROUND=""
 
 ---
 
@@ -191,6 +191,9 @@ GEMINI_API_KEY_BACKGROUND=your_background_key
 **Team Name:** Delta Techies
 
 **Team Leader:** Blessy Ashish Waydande
+**Team Member:** Prachi Vasant Suryawanshi
+**Team Member:** Srushti Sanjay Shirale
+
 
 **Hackathon:** Build with AI — 
 Hack2Skill Solution Challenge
@@ -222,16 +225,9 @@ Google AI technology.
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use and 
-build upon this project.
-
----
-
 ## 🔗 Links
 
-- 🌐 Live Demo: [nexus-demo.netlify.app]
+- 🌐 Live Demo: https://nexus-3wvu.onrender.com/
 - 🎥 Demo Video: [screenpal link]
 - 📊 Presentation: [pdf link]
 
